@@ -1,0 +1,21 @@
+#about{
+    background: red;
+}
+
+#project {
+    background: blue;
+}
+
+#skills {
+    background: yellow;
+}
+
+#contact {
+    background: green;
+}
+
+body {
+    height: 700vh;
+    display: grid;
+    grid-template: 1fr 3fr 1fr 1fr / 1fr;
+}
