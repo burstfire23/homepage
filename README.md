@@ -11,6 +11,6 @@ links, and a contact section with options to reach me
 HTML, CSS, JavaScript
 
 ## Live Demo
-https://iliang33.github.io/homepage/
+https://iliang33.github.io/portfolio
 
 
